@@ -1,0 +1,14 @@
+The first graph represents the Histogram for math, reading, and writing scores:
+i) 140 students have scored greater than or equal to 70 in Math.
+ii) In reading 140 of the students have scored greater than 70 and less than 80.
+iii) In writting 140 of the students have scored greater than 75.
+Second graph represents the bar plot for race/ethnicity distribution
+In this group C have the highest count with 300.
+Third graph represents the Violin plots to compare scores by gender
+i) In math the male gender have a greater median score.The white dot represents the median
+ii) In reading the female gender have a greater median score. 
+iii) In writting also the female gender have a greater median score.
+Fourth graph represents the count plot for test preparation course
+Most of the students not completed the course yet.
+Fifth graph represents the pairplot with hue for race/ethnicity
+Math and writing score graph show a strong positive correlation.
