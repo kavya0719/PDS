@@ -1,0 +1,7 @@
+Substitute the NA values for the engine, power, and mileage with the median
+
+The best substitute method is the median since it prevents outliers and maintains the center tendency.
+
+Change the Seat NA settings to Mode. Despite being a quantitative value, the number of seats is discontinuous, hence the mode is employed.
+
+It is preferable to remove a column in the instance of Newprice since there are a lot of null values there. Inputing any values could generate outliers in the data and incorrect analysi
